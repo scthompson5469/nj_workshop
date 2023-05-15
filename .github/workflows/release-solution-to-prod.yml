@@ -38,7 +38,7 @@ on:
 
         type: string 
 
-        default: out/solutions/ 
+        default: out/solutions
 
       solution_source_folder:  
 
@@ -46,7 +46,7 @@ on:
 
        type: string 
 
-       default: solutions/ 
+       default: solutions/con_core/src
 
       solution_release_folder: 
 
